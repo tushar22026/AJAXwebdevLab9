@@ -1,0 +1,9 @@
+{
+  "faculty": 
+  {
+    "EF": ["ICT","CSE","EEE", "ME", "CE", "ARC"],
+    "LF": ["BGE", "FTNS", "BMB", "CPS", "ESRM"],
+    "SC": ["PHY", "MAT", "STA", "CHE", "BIO"],
+    "AF": ["HIS", "GEO", "POL", "ECON", "SOC"]
+  }
+}
